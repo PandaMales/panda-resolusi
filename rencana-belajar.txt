@@ -7,3 +7,4 @@ rencana belajar
 
 - Belajar ui ux
   - Belajar figma
+  - Belajar Adobe xd
