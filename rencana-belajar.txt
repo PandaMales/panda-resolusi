@@ -8,3 +8,4 @@ rencana belajar
 - Belajar ui ux
   - Belajar figma
 - Belajar slicing 
+
