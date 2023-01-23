@@ -4,3 +4,6 @@ rencana belajar
 - Belajar reactJS
 - Belajar Web Development
 - Belajar Wordpress
+
+- Belajar ui ux
+  - Belajar figma
